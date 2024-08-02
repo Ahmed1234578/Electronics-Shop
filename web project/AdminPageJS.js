@@ -1,5 +1,4 @@
-
-  function myFunction() {
+function myFunction() {
     document.getElementById("i2").classList.toggle("show");
   }
 
@@ -15,4 +14,3 @@
       }
     }
   }
-  
