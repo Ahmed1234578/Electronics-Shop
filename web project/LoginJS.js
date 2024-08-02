@@ -13,7 +13,7 @@ function loginFun(){
      document.getElementById("EmI").style.backgroundColor="#ffe6e6";
      document.getElementById("EmI").style.borderColor="red";
     }
-    if(Login_Email!=""){
+    else{
         // window.location.replace("AdminPage.html");
         document.getElementById("EV").innerHTML="";
         document.getElementById("EmI").style.backgroundColor="white";
