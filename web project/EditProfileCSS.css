@@ -36,45 +36,47 @@
     
     margin-top: 5%;
     margin-left: 40%;
-    margin-bottom: 5%;
+    margin-bottom: 1%;
 
 }
+
 #FNH {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-left: 15%;
-    margin-bottom: 2%;
+    margin-bottom: 3%;
     
 }
 #LNH {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-left: 15%;
-
+    margin-bottom: 3%;
     
 }
 #PNH{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-left: 15%;
 
-    
+    margin-bottom: 3%;
 }
 #FNI {
-    height: 14%;
+    height: 9%;
     width: 60%;
     margin-left: 15%;
-    
+    cursor: not-allowed;
 }
 #LNI {
-    height: 14%;
+    height: 9%;
     width: 60%;
     margin-left: 15%;
+    cursor: not-allowed;
 }
 #EH{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-left: 15%;
-    
+    margin-bottom: 3%;
 }
 #EMI {
-    height: 14%;
+    height: 9%;
     width: 60%;
    
     margin-left: 15%;
@@ -84,10 +86,10 @@
 #AH{
     font-family: 'Seg oe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-left: 15%;
-
+    margin-bottom: 3%;
 }
 #EI {
-    height: 14%;
+    height: 9%;
     width: 60%;
    
     margin-left: 15%;
@@ -96,7 +98,7 @@
     margin-bottom: 0%;
 }
 #PNI {
-    height: 14%;
+    height: 9%;
     width: 60%;
    
     margin-left: 15%;
@@ -104,10 +106,10 @@
 #PH{
     font-family: 'Seg oe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-left: 15%;
-    
+    margin-bottom: 3%;
 }
 #PI {
-    height: 14%;
+    height: 9%;
     width: 60%;
    
     margin-left: 15%;
@@ -121,7 +123,7 @@
     font-size: medium;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-left: 7.5%;
-    margin-top: 4.25%;
+    margin-top: 7.5%;
     cursor: pointer;
     
     
@@ -138,8 +140,8 @@
     width: 30.75%;
     font-size: medium;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin-left: 20%;
-    margin-top: 4.25%;
+    margin-left: 19.5%;
+    margin-top: 7.5%;
     cursor: pointer;
     
     
@@ -180,7 +182,14 @@ p{
 }
 
 #AI {
-    height: 14%;
+    height: 9%;
     width: 60%;
     margin-left: 15%;
+}
+#EV, #PV,#PV1,#PV2,#PV3,#AV,#PNV {
+    color: red;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 15% ;
+    margin-top: 1%;
+    
 }
