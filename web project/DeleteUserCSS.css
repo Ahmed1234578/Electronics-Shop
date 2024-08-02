@@ -105,3 +105,9 @@ p{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin-left: 33.5%;
 }
+#FNV ,#LNV {
+        color: red;
+        font-family:'Times New Roman', Times, serif;
+        margin-left: 35% ;
+        margin-top: 1%;
+}
